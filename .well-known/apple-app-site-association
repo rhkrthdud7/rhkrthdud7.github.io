@@ -1,10 +1,15 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "MJEMMU945Y.com.infinistar.vora",
-        "paths": ["*"]
+  applinks: {
+    details: [
+      {      	   
+        appIDs: [
+        	"MJEMMU945Y.com.infinistar.vora"
+        ],
+        components: [
+            {
+                /: "*"
+            }
+        ]
       }
     ]
   }
